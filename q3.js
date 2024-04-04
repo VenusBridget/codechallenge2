@@ -12,3 +12,4 @@ function primeNumbers(num) {
 }
 // Output
 console.log(numbers.filter(primeNumbers));
+window.alert(numbers.filter(primeNumbers))

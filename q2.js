@@ -14,3 +14,6 @@ function createArray(start, end){
 // Output
 console.log(array)
 console.log(array2)
+
+window.alert(array)
+window.alert(array2)
